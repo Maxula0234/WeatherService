@@ -1,4 +1,4 @@
-package hor;
+package service;
 
 import java.io.*;
 import java.net.ServerSocket;

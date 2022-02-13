@@ -1,6 +1,6 @@
 package client;
 
-import hor.Phone;
+import service.Phone;
 
 public class Client {
     public static void main(String[] args) {

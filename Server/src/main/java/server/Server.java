@@ -1,7 +1,8 @@
-import java.io.*;
-import java.net.ServerSocket;
+package server;
 
-import hor.Phone;
+import service.Phone;
+
+import java.net.ServerSocket;
 
 public class Server {
     public static void main(String[] args) {
